@@ -1,10 +1,10 @@
 # Aidan DeMuth's First CS193 Homework
-```
+
 What do I like about CS193?
 - The instructors for the course are extremely helpful and friendly
 - The course fits reasonably well into my schedule
 - I get to use GitHub
-```
+
 
 ## Welcome to GitHub Pages
 
